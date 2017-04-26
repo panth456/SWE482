@@ -1,0 +1,4 @@
+firstName,lastName,email,address1,address2,city,state,zipCode,userName,password
+Cy,Jarrell,cy@mail,123 Sesame St,1234,Tel Aviv,IS,98765,cjarrell,123456
+First Name,Last name,Email,Address 1,Address 2,City,State,98765,User Name,Password
+testName,testLastName,anotherTestEmail@gmail.com,Test Address,Test Address 2,Test City,Test State,45678,testUserName,password123
